@@ -919,12 +919,16 @@
                 "custom_model_data": 2201285
             },
             {
-                "name": "soul_jar_blaze_0",
+                "name": "soul_jar_empty",
                 "custom_model_data": 2203000
             },
             {
-                "name": "soul_jar_blaze_1",
+                "name": "soul_jar_blaze_0",
                 "custom_model_data": 2203001
+            },
+            {
+                "name": "soul_jar_blaze_1",
+                "custom_model_data": 2203002
             },
             {
                 "name": "soul_jar_cave_spider_0",
@@ -957,10 +961,6 @@
             {
                 "name": "soul_jar_creeper_1",
                 "custom_model_data": 2203014
-            },
-            {
-                "name": "soul_jar_empty",
-                "custom_model_data": 2203000
             },
             {
                 "name": "soul_jar_enderman_0",
