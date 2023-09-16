@@ -918,6 +918,218 @@
                 "name": "stuffed_red_bell_pepper",
                 "custom_model_data": 2201285
             }
+                        {
+                "name": "soul_jar_blaze_0",
+                "custom_model_data": 2203000
+            },
+            {
+                "name": "soul_jar_blaze_1",
+                "custom_model_data": 2203001
+            },
+            {
+                "name": "soul_jar_cave_spider_0",
+                "custom_model_data": 2203004
+            },
+            {
+                "name": "soul_jar_cave_spider_1",
+                "custom_model_data": 2203005
+            },
+            {
+                "name": "soul_jar_chicken_0",
+                "custom_model_data": 2203007
+            },
+            {
+                "name": "soul_jar_chicken_1",
+                "custom_model_data": 2203008
+            },
+            {
+                "name": "soul_jar_cow_0",
+                "custom_model_data": 2203010
+            },
+            {
+                "name": "soul_jar_cow_1",
+                "custom_model_data": 2203011
+            },
+            {
+                "name": "soul_jar_creeper_0",
+                "custom_model_data": 2203013
+            },
+            {
+                "name": "soul_jar_creeper_1",
+                "custom_model_data": 2203014
+            },
+            {
+                "name": "soul_jar_empty",
+                "custom_model_data": 2203000
+            },
+            {
+                "name": "soul_jar_enderman_0",
+                "custom_model_data": 2203022
+            },
+            {
+                "name": "soul_jar_enderman_1",
+                "custom_model_data": 2203023
+            },
+            {
+                "name": "soul_jar_endermite_0",
+                "custom_model_data": 2203025
+            },
+            {
+                "name": "soul_jar_endermite_1",
+                "custom_model_data": 2203026
+            },
+            {
+                "name": "soul_jar_ghast_0",
+                "custom_model_data": 2203031
+            },
+            {
+                "name": "soul_jar_ghast_1",
+                "custom_model_data": 2203032
+            },
+            {
+                "name": "soul_jar_guardian_0",
+                "custom_model_data": 2203034
+            },
+            {
+                "name": "soul_jar_guardian_1",
+                "custom_model_data": 2203035
+            },
+            {
+                "name": "soul_jar_horse_0",
+                "custom_model_data": 2203037
+            },
+            {
+                "name": "soul_jar_horse_1",
+                "custom_model_data": 2203038
+            },
+            {
+                "name": "soul_jar_magma_cube_0",
+                "custom_model_data": 2203049
+            },
+            {
+                "name": "soul_jar_magma_cube_1",
+                "custom_model_data": 2203050
+            },
+            {
+                "name": "soul_jar_mushroom_cow_0",
+                "custom_model_data": 2203052
+            },
+            {
+                "name": "soul_jar_mushroom_cow_1",
+                "custom_model_data": 2203053
+            },
+            {
+                "name": "soul_jar_ocelot_0",
+                "custom_model_data": 2203055
+            },
+            {
+                "name": "soul_jar_ocelot_1",
+                "custom_model_data": 2203056
+            },
+            {
+                "name": "soul_jar_pig_0",
+                "custom_model_data": 2203067
+            },
+            {
+                "name": "soul_jar_pig_1",
+                "custom_model_data": 2203068
+            },
+            {
+                "name": "soul_jar_rabbit_0",
+                "custom_model_data": 2203076
+            },
+            {
+                "name": "soul_jar_rabbit_1",
+                "custom_model_data": 2203077
+            },
+            {
+                "name": "soul_jar_sheep_0",
+                "custom_model_data": 2203082
+            },
+            {
+                "name": "soul_jar_sheep_1",
+                "custom_model_data": 2203083
+            },
+            {
+                "name": "soul_jar_silverfish_0",
+                "custom_model_data": 2203085
+            },
+            {
+                "name": "soul_jar_silverfish_1",
+                "custom_model_data": 2203086
+            },
+            {
+                "name": "soul_jar_skeleton_0",
+                "custom_model_data": 2203088
+            },
+            {
+                "name": "soul_jar_skeleton_1",
+                "custom_model_data": 2203089
+            },
+            {
+                "name": "soul_jar_slime_0",
+                "custom_model_data": 2203091
+            },
+            {
+                "name": "soul_jar_slime_1",
+                "custom_model_data": 2203092
+            },
+            {
+                "name": "soul_jar_spider_0",
+                "custom_model_data": 2203094
+            },
+            {
+                "name": "soul_jar_spider_1",
+                "custom_model_data": 2203095
+            },
+            {
+                "name": "soul_jar_squid_0",
+                "custom_model_data": 2203097
+            },
+            {
+                "name": "soul_jar_squid_1",
+                "custom_model_data": 2203098
+            },
+            {
+                "name": "soul_jar_villager_0",
+                "custom_model_data": 2203103
+            },
+            {
+                "name": "soul_jar_villager_1",
+                "custom_model_data": 2203104
+            },
+            {
+                "name": "soul_jar_witch_0",
+                "custom_model_data": 2203109
+            },
+            {
+                "name": "soul_jar_witch_1",
+                "custom_model_data": 2203110
+            },
+            {
+                "name": "soul_jar_wolf_0",
+                "custom_model_data": 2203115
+            },
+            {
+                "name": "soul_jar_wolf_1",
+                "custom_model_data": 2203116
+            },
+            {
+                "name": "soul_jar_zombie_0",
+                "custom_model_data": 2203118
+            },
+            {
+                "name": "soul_jar_zombie_1",
+                "custom_model_data": 2203119
+            },
+            {
+                "name": "soul_jar_zombie_villager_0",
+                "custom_model_data": 2203121
+            },
+            {
+                "name": "soul_jar_zombie_villager_1",
+                "custom_model_data": 2203122
+            }
         ],
         "minecraft:potion": [
             {
