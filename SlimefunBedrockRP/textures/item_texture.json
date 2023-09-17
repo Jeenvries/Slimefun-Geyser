@@ -3292,6 +3292,16 @@
 		  "textures/items/soul_jars/soul_jar_witch_1"
 		]
 	  },
+	  "soul_jar_wither_skeleton_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_wither_skeleton_0"
+		]
+	  },
+	  "soul_jar_wither_skeleton_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_wither_skeleton_1"
+		]
+	  },
 	  "soul_jar_wolf_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_wolf_0"
