@@ -3172,6 +3172,16 @@
 		  "textures/items/soul_jars/soul_jar_pillager_1"
 		]
 	  },
+	  "soul_jar_polar_bear_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_polar_bear_0"
+		]
+	  },
+	  "soul_jar_polar_bear_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_polar_bear_1"
+		]
+	  },
 	  "soul_jar_rabbit_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_rabbit_0"
