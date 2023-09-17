@@ -3012,6 +3012,16 @@
 			"textures/items/soul_jars/soul_jar_evoker_1"
 		]
 	  },
+	  "soul_jar_fox_0" : {
+		"textures": [
+			"textures/items/soul_jars/soul_jar_fox_0"
+		]
+	  },
+	  "soul_jar_fox_1" : {
+		"textures": [
+			"textures/items/soul_jars/soul_jar_fox_1"
+		]
+	  },
 	  "soul_jar_ghast_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_ghast_0"
