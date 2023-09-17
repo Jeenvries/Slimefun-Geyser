@@ -3192,6 +3192,16 @@
 		  "textures/items/soul_jars/soul_jar_rabbit_1"
 		]
 	  },
+	  "soul_jar_ravager_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_ravager_0"
+		]
+	  },
+	  "soul_jar_ravager_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_ravager_1"
+		]
+	  },
 	  "soul_jar_sheep_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_sheep_0"
