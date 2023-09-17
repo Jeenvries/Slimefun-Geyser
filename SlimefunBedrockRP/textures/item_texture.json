@@ -3262,6 +3262,16 @@
 		  "textures/items/soul_jars/soul_jar_squid_1"
 		]
 	  },
+	  "soul_jar_stray_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_stray_0"
+		]
+	  },
+	  "soul_jar_stray_1": {
+		"textures": [
+		  "textures/items/soul_jars/ssoul_jar_stray_1"
+		]
+	  },
 	  "soul_jar_villager_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_villager_0"
