@@ -3122,6 +3122,16 @@
 		  "textures/items/soul_jars/soul_jar_panda_1"
 		]
 	  },
+	  "soul_jar_parrot_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_parrot_0"
+		]
+	  },
+	  "soul_jar_parrot_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_parrot_1"
+		]
+	  },
 	  "soul_jar_pig_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_pig_0"
