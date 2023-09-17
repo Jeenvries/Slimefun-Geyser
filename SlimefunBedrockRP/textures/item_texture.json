@@ -3282,6 +3282,16 @@
 		  "textures/items/soul_jars/soul_jar_villager_1"
 		]
 	  },
+	  "soul_jar_vindicator_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_vindicator_0"
+		]
+	  },
+	  "soul_jar_vindicator_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_vindicator_1"
+		]
+	  },
 	  "soul_jar_witch_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_witch_0"
