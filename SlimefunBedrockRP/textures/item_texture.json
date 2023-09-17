@@ -3052,6 +3052,16 @@
 		  "textures/items/soul_jars/soul_jar_horse_1"
 		]
 	  },
+	  "soul_jar_husk_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_husk_0"
+		]
+	  },
+	  "soul_jar_husk_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_husk_1"
+		]
+	  },
 	  "soul_jar_iron_golem_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_iron_golem_0"
