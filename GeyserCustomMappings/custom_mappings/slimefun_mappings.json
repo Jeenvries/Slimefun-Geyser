@@ -1035,6 +1035,14 @@
                 "custom_model_data": 2203041
             },
             {
+                "name": "soul_jar_llama_0",
+                "custom_model_data": 2203046
+            },
+            {
+                "name": "soul_jar_llama_1",
+                "custom_model_data": 2203047
+            },
+            {
                 "name": "soul_jar_magma_cube_0",
                 "custom_model_data": 2203049
             },
