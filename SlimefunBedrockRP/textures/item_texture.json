@@ -3162,6 +3162,16 @@
 		  "textures/items/soul_jars/soul_jar_pig_zombie_1"
 		]
 	  },
+	  "soul_jar_pillager_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_pillager_0"
+		]
+	  },
+	  "soul_jar_pillager_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_pillager_1"
+		]
+	  },
 	  "soul_jar_rabbit_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_rabbit_0"
