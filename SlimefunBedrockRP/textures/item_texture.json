@@ -3252,6 +3252,16 @@
 		  "textures/items/soul_jars/soul_jar_zombie_1"
 		]
 	  },
+	  "soul_jar_zombie_villager_0": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_zombie_villager_0"
+		]
+	  },
+	  "soul_jar_zombie_villager_1": {
+		"textures": [
+		  "textures/items/soul_jars/soul_jar_zombie_villager_1"
+		]
+	  },
 	  "soul_jar_drowned_0": {
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_drowned_0"
