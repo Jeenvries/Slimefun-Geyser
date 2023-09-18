@@ -1241,6 +1241,10 @@
             {
                 "name": "soul_jar_zombie_villager_1",
                 "custom_model_data": 2203122
+            },
+            {
+                "name": "mob_capturing_pellets",
+                "custom_model_data": 2203201
             }
         ],
         "minecraft:potion": [
@@ -2800,6 +2804,12 @@
                 "name": "elevator_plate",
                 "custom_model_data": 2200470
             }
+        ],
+        "minecraft:blaze_rod": [
+            {
+                "name": "mob_capturing_cannon",
+                "custom_model_data": 2203202
+            }  
         ]
     }
 }

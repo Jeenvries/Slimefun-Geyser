@@ -3351,6 +3351,16 @@
 		"textures": [
 		  "textures/items/soul_jars/soul_jar_drowned_1"
 		]
+	  },
+	  "mob_capturing_cannon": {
+		"textures": [
+		  "textures/items/mob_capturer/tools/mob_capturing_cannon"
+		]
+	  },
+	  "mob_capturing_pellets": {
+		"textures": [
+		  "textures/items/mob_capturer/tools/mob_capturing_pellets"
+		]
 	}
   }
 }
