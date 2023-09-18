@@ -2,6 +2,13 @@
 
 This repository houses an updated but still in development version of [Slimefun-Geyser](https://github.com/SofiaRedmond/Slimefun-Geyser), featuring additional textures for various add-ons. 
 
+## Additions
+| Add-on           | Item Model Numbers     | Status       |
+| ---------------- | ---------------------- | ------------ |
+| SoulJars       | 2203000 ~ 2203200  | Finished  |
+| Mob Capturer        | Coming soon   | Planned    |
+| Slimefun Fixes    | 2200001~2200600   | Planned      |
+ 
 ## How to Install
 
 Follow these steps to install the Slimefun Resource Pack for Bedrock:
