@@ -3692,6 +3692,11 @@
 				"textures/items/mob_capturer/mob_eggs/mob_egg_witch"
 			]
 		},
+		"mob_egg_wither_skeleton": {
+			"textures": [
+				"textures/items/mob_capturer/mob_eggs/mob_egg_wither_skeleton"
+			]
+		},
 		"mob_egg_wolf": {
 			"textures": [
 				"textures/items/mob_capturer/mob_eggs/mob_egg_wolf"
@@ -3700,6 +3705,16 @@
 		"mob_egg_zoglin": {
 			"textures": [
 				"textures/items/mob_capturer/mob_eggs/mob_egg_zoglin"
+			]
+		},
+		"mob_egg_zombie_horse": {
+			"textures": [
+				"textures/items/mob_capturer/mob_eggs/mob_egg_zombie_horse"
+			]
+		},
+		"mob_egg_zombie_villager": {
+			"textures": [
+				"textures/items/mob_capturer/mob_eggs/mob_egg_zombie_villager"
 			]
 		},
 		"mob_egg_zombie": {

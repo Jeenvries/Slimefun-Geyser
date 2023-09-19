@@ -1259,7 +1259,7 @@
                 "custom_model_data": 2203205
             },
             {
-                "name": "mob_egg_mushroom_cow",
+                "name": "mob_egg_mushroomcow",
                 "custom_model_data": 2203206
             },
             {
@@ -1347,7 +1347,7 @@
                 "custom_model_data": 2203227
             },
             {
-                "name": "mob_egg_elder_guardian",
+                "name": "mob_egg_elderguardian",
                 "custom_model_data": 2203228
             },
             {
@@ -1491,7 +1491,7 @@
                 "custom_model_data": 2203263
             },
             {
-                "name": "mob_egg_skeleton_horse",
+                "name": "mob_egg_skeletonhorse",
                 "custom_model_data": 2203264
             },
             {
