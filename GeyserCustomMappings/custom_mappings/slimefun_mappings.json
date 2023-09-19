@@ -1245,6 +1245,294 @@
             {
                 "name": "mob_capturing_pellets",
                 "custom_model_data": 2203201
+            },
+            {
+                "name": "mob_egg_cow",
+                "custom_model_data": 2203203
+            },
+            {
+                "name": "mob_egg_chicken",
+                "custom_model_data": 2203204
+            },
+            {
+                "name": "mob_egg_pig",
+                "custom_model_data": 2203205
+            },
+            {
+                "name": "mob_egg_mushroom_cow",
+                "custom_model_data": 2203206
+            },
+            {
+                "name": "mob_egg_rabbit",
+                "custom_model_data": 2203207
+            },
+            {
+                "name": "mob_egg_sheep",
+                "custom_model_data": 2203208
+            },
+            {
+                "name": "mob_egg_turtle",
+                "custom_model_data": 2203209
+            },
+            {
+                "name": "mob_egg_polar_bear",
+                "custom_model_data": 2203210
+            },
+            {
+                "name": "mob_egg_panda",
+                "custom_model_data": 2203211
+            },
+            {
+                "name": "mob_egg_fox",
+                "custom_model_data": 2203212
+            },
+            {
+                "name": "mob_egg_bee",
+                "custom_model_data": 2203213
+            },
+            {
+                "name": "mob_egg_axolotl",
+                "custom_model_data": 2203214
+            },
+            {
+                "name": "mob_egg_goat",
+                "custom_model_data": 2203215
+            },
+            {
+                "name": "mob_egg_frog",
+                "custom_model_data": 2203216
+            },
+            {
+                "name": "mob_egg_sniffer",
+                "custom_model_data": 2203217
+            },
+            {
+                "name": "mob_egg_slime",
+                "custom_model_data": 2203218
+            },
+            {
+                "name": "mob_egg_spider",
+                "custom_model_data": 2203219
+            },
+            {
+                "name": "mob_egg_cave_spider",
+                "custom_model_data": 2203220
+            },
+            {
+                "name": "mob_egg_creeper",
+                "custom_model_data": 2203221
+            },
+            {
+                "name": "mob_egg_phantom",
+                "custom_model_data": 2203222
+            },
+            {
+                "name": "mob_egg_silverfish",
+                "custom_model_data": 2203223
+            },
+            {
+                "name": "mob_egg_bat",
+                "custom_model_data": 2203224
+            },
+            {
+                "name": "mob_egg_allay",
+                "custom_model_data": 2203225
+            },
+            {
+                "name": "mob_egg_squid",
+                "custom_model_data": 2203226
+            },
+            {
+                "name": "mob_egg_guardian",
+                "custom_model_data": 2203227
+            },
+            {
+                "name": "mob_egg_elder_guardian",
+                "custom_model_data": 2203228
+            },
+            {
+                "name": "mob_egg_dolphin",
+                "custom_model_data": 2203229
+            },
+            {
+                "name": "mob_egg_glow_squid",
+                "custom_model_data": 2203230
+            },
+            {
+                "name": "mob_egg_wolf",
+                "custom_model_data": 2203231
+            },
+            {
+                "name": "mob_egg_ocelot",
+                "custom_model_data": 2203232
+            },
+            {
+                "name": "mob_egg_cat",
+                "custom_model_data": 2203233
+            },
+            {
+                "name": "mob_egg_parrot",
+                "custom_model_data": 2203234
+            },
+            {
+                "name": "mob_egg_blaze",
+                "custom_model_data": 2203235
+            },
+            {
+                "name": "mob_egg_magma_cube",
+                "custom_model_data": 2203236
+            },
+            {
+                "name": "mob_egg_ghast",
+                "custom_model_data": 2203237
+            },
+            {
+                "name": "mob_egg_piglin",
+                "custom_model_data": 2203238
+            },
+            {
+                "name": "mob_egg_piglin_brute",
+                "custom_model_data": 2203239
+            },
+            {
+                "name": "mob_egg_zombified_piglin",
+                "custom_model_data": 2203240
+            },
+            {
+                "name": "mob_egg_hoglin",
+                "custom_model_data": 2203241
+            },
+            {
+                "name": "mob_egg_zoglin",
+                "custom_model_data": 2203242
+            },
+            {
+                "name": "mob_egg_strider",
+                "custom_model_data": 2203243
+            },
+            {
+                "name": "mob_egg_shulker",
+                "custom_model_data": 2203244
+            },
+            {
+                "name": "mob_egg_endermite",
+                "custom_model_data": 2203245
+            },
+            {
+                "name": "mob_egg_snowman",
+                "custom_model_data": 2203246
+            },
+            {
+                "name": "mob_egg_iron_golem",
+                "custom_model_data": 2203247
+            },
+            {
+                "name": "mob_egg_witch",
+                "custom_model_data": 2203248
+            },
+            {
+                "name": "mob_egg_vindicator",
+                "custom_model_data": 2203249
+            },
+            {
+                "name": "mob_egg_pillager",
+                "custom_model_data": 2203250
+            },
+            {
+                "name": "mob_egg_ravager",
+                "custom_model_data": 2203251
+            },
+            {
+                "name": "mob_egg_evoker",
+                "custom_model_data": 2203252
+            },
+            {
+                "name": "mob_egg_illusioner",
+                "custom_model_data": 2203253
+            },
+            {
+                "name": "mob_egg_vex",
+                "custom_model_data": 2203254
+            },
+            {
+                "name": "mob_egg_cod",
+                "custom_model_data": 2203255
+            },
+            {
+                "name": "mob_egg_salmon",
+                "custom_model_data": 2203256
+            },
+            {
+                "name": "mob_egg_pufferfish",
+                "custom_model_data": 2203257
+            },
+            {
+                "name": "mob_egg_tropical_fish",
+                "custom_model_data": 2203258
+            },
+            {
+                "name": "mob_egg_tadpole",
+                "custom_model_data": 2203259
+            },
+            {
+                "name": "mob_egg_horse",
+                "custom_model_data": 2203260
+            },
+            {
+                "name": "mob_egg_donkey",
+                "custom_model_data": 2203261
+            },
+            {
+                "name": "mob_egg_mule",
+                "custom_model_data": 2203262
+            },
+            {
+                "name": "mob_egg_zombie_horse",
+                "custom_model_data": 2203263
+            },
+            {
+                "name": "mob_egg_skeleton_horse",
+                "custom_model_data": 2203264
+            },
+            {
+                "name": "mob_egg_llama",
+                "custom_model_data": 2203265
+            },
+            {
+                "name": "mob_egg_trader_llama",
+                "custom_model_data": 2203266
+            },
+            {
+                "name": "mob_egg_camel",
+                "custom_model_data": 2203267
+            },
+            {
+                "name": "mob_egg_skeleton",
+                "custom_model_data": 2203268
+            },
+            {
+                "name": "mob_egg_wither_skeleton",
+                "custom_model_data": 2203269
+            },
+            {
+                "name": "mob_egg_stray",
+                "custom_model_data": 2203270
+            },
+            {
+                "name": "mob_egg_zombie",
+                "custom_model_data": 2203271
+            },
+            {
+                "name": "mob_egg_drowned",
+                "custom_model_data": 2203272
+            },
+            {
+                "name": "mob_egg_husk",
+                "custom_model_data": 2203273
+            },
+            {
+                "name": "mob_egg_zombie_villager",
+                "custom_model_data": 2203274
             }
         ],
         "minecraft:potion": [
@@ -2809,7 +3097,7 @@
             {
                 "name": "mob_capturing_cannon",
                 "custom_model_data": 2203202
-            }  
+            }
         ]
     }
 }
