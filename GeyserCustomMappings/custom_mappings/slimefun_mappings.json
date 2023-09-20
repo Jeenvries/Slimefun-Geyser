@@ -119,10 +119,6 @@
                 "custom_model_data": 2200257
             },
             {
-                "name": "necrotic_skull",
-                "custom_model_data": 2200259
-            },
-            {
                 "name": "bound_backpack",
                 "custom_model_data": 2200261
             },
@@ -3113,6 +3109,12 @@
             {
                 "name": "mob_capturing_cannon",
                 "custom_model_data": 2203202
+            }
+        ],
+        "minecraft:wither_skeleton_skull": [
+            {
+                "name": "necrotic_skull",
+                "custom_model_data": 2200259
             }
         ]
     }
