@@ -2,7 +2,7 @@
 	"format_version": "1.8.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "geyser_custom:ender_chestplate",
+			"identifier": "geyser_custom:ender_leggings",
 			"materials": {
 				"default": "custom_armor",
 				"enchanted": "custom_armor_enchanted"
@@ -16,7 +16,7 @@
 				"none": "geometry.none"
 			},
 			"scripts": {
-				"parent_setup": "variable.chest_layer_visible = 0.0;"
+				"parent_setup": "variable.helmet_layer_visible = 0.0;"
 			},
 			"render_controllers": ["controller.render.ender_leggings"]
 		}
