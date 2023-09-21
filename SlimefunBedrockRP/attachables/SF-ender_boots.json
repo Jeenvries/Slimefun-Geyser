@@ -8,7 +8,7 @@
                 "enchanted": "custom_armor_enchanted"
             },
             "textures": {
-                "default": "textures/models/armor/cactus_armor/ender_boots",
+                "default": "textures/models/armor/ender_armor/ender_boots",
                 "enchanted": "textures/misc/enchanted_item_glint"
             },
             "geometry": {

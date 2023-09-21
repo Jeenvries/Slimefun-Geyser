@@ -8,7 +8,7 @@
 				"enchanted": "custom_armor_enchanted"
 			},
 			"textures": {
-				"default": "textures/models/armor/damascus_armor/ender_helmet",
+				"default": "textures/models/armor/ender_armor/ender_helmet",
 				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
