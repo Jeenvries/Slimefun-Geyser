@@ -2892,6 +2892,26 @@
 				"textures/items/armor/golden_armor/gold_12k_boots"
 			]
 		},
+		"ender_helmet": {
+			"textures": [
+				"textures/items/armor/ender_armor/ender_helmet"
+			]
+		},
+		"ender_chestplate": {
+			"textures": [
+				"textures/items/armor/ender_armor/ender_chestplate"
+			]
+		},
+		"ender_leggings": {
+			"textures": [
+				"textures/items/armor/ender_armor/ender_leggings"
+			]
+		},
+		"ender_boots": {
+			"textures": [
+				"textures/items/armor/ender_armor/ender_boots"
+			]
+		},
 		"sword_of_beheading": {
 			"textures": [
 				"textures/items/weapon/sword_of_beheading"

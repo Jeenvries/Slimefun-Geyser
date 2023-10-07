@@ -2947,6 +2947,10 @@
         ],
         "minecraft:leather_helmet": [
             {
+                "name": "ender_helmet",
+                "custom_model_data": 2200037
+            },
+            {
                 "name": "slime_helmet",
                 "custom_model_data": 2200044
             },
@@ -2969,6 +2973,10 @@
         ],
         "minecraft:leather_chestplate": [
             {
+                "name": "ender_chestplate",
+                "custom_model_data": 2200038
+            },
+            {
                 "name": "slime_chestplate",
                 "custom_model_data": 2200045
             },
@@ -2987,6 +2995,10 @@
         ],
         "minecraft:leather_leggings": [
             {
+                "name": "ender_leggings",
+                "custom_model_data": 2200039
+            },
+            {
                 "name": "slime_leggings",
                 "custom_model_data": 2200046
             },
@@ -3004,6 +3016,10 @@
             }
         ],
         "minecraft:leather_boots": [
+            {
+                "name": "ender_boots",
+                "custom_model_data": 2200040
+            },
             {
                 "name": "slime_boots",
                 "custom_model_data": 2200047
